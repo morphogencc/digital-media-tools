@@ -1,19 +1,3 @@
-# Sonar Sensors
-
-Pros: longer distances (5 - 30 ft), good repeatability, not sensitive to sunlight
-
-Cons: can interfere with each other; using many requires a bit of setup and infrastructure; echoes can be a problem
-
-Neither/Both: Wide beam
-
-## Best Practices
-
-All sonars within line of sight of each other must be triggered simultaneously or one at a time.
-
-## Specific Devices
-
-### [Maxbotix Ultrasonic Sensors](http://www.maxbotix.com/Ultrasonic_Sensors/MB1000.htm)
-
 # Capacitive Sensors
 
 Capacitive sensors use a human body as a ground to discharge a capacitor plate being charged by the sensor.  They are great for use cases where line of sight cannot be guaranteed (through a barrier), but where accuracy is not required.
@@ -24,7 +8,7 @@ Cons: Tuning can be a pain, Restricted to 0"-24", susceptable to metal objects /
 
 ## Best Practices
 ## Specific Devices
-
+77;10103;0c
 ### Roll-Your-Own
 This can be done rather cheaply -- read about Delta-Sigma Modulation techniques.
 
@@ -97,17 +81,26 @@ Cons: More expensive, more computational overhead
 
 # RSSI (smartphone, Bluetooth LE beacons)
 
+Measurements can be made in the range of meters, but resolution drops off rapidly within one meter.  By increasing the number of beacons / radios you can improve accuracy, but the latency increases as a tradeoff.  Metal obstacles or bodies are a problem :/
+
 ## Best Practices
+
+Transmission power and antenna design have the biggest effect on measurements.  Also, where the sensors are placed.
+
 ## Specific Devices
 
 ### [Estimote](http://estimote.com/)
 ### [Qualcomm Gimbals](http://www.gimbal.com/)
+### [XBee]()
+### [Nordic BLE]()
 
 #  RFID
 
 While technically a proximity sensor, RFID cannot detect an arbitrary object.  Instead, it's used to detect (and identify) tags that are within proximity of an antenna installed in your exhibit.  A typical use of such device is to detect whether objects have been removed / added to a table.
 
 ## Best Practices
+Look carefully at the reader that you'll use to control the antennas.  You'll want to examine the interface / available libraries to control the reader very carefully to make sure you can use them.
+
 Test, test, test your setup!  Nearby metal objects can interfere with the RFID -- be sure to test and calibrate your reader in an environment as close to the production environment as possible.
 
 ## Specific Devices
@@ -116,7 +109,7 @@ Test, test, test your setup!  Nearby metal objects can interfere with the RFID -
 
 The SonMicro SM130 is by far one of the cheapest and simplest readers/antennas you can get (costing about $30 - $40 for a setup), but at a cost -- the detection area is no larger than an index card, the range is limited to 3-6 inches, and it can only read one tag at a time. That said, it's simplicity and cost-effectiveness make it a solid option for many use cases.
 
-### Alien Technology
+### [Alien Technology](http://www.alientechnology.com/readers/)
 
 [API  -- Strings over TCP/IP](http://www.htz.com.tw/products/9800/manual/Reader%20Interface.pdf)
 
@@ -124,7 +117,7 @@ You can also use local ruby scripts to manage read/writes.
 
 Also worth noting -- Alien has a rental program, so for a fee you can rent a reader and try it before you buy it.
 
-### Thinkmagic
+### [Thinkmagic](http://www.thingmagic.com/)
 
 [API](http://www.thingmagic.com/images/stories/publicuserguides/MercuryAPI_ProgrammerGuide_Aug12.pdf)
 
