@@ -1,28 +1,16 @@
-# Sensor Name
+# AVT Cameras
+
+Allied Vision Technologies makes cameras that are ethernet-enabled (plus many of them support PoE), and are small and built like tanks.  
 
 ## Vitals
-* Approximate Cost: $xxx.xx
+* Approximate Cost: $200 - $600+
 * Suppliers
-    * A bulleted list of places you know where to get the piece
-    * Sometimes you have to get it straight from the manufacturer!
-* [Datasheet]() -- A link to the datasheet / spec sheet, if it's available.
+    * [Allied VIsion Technologies -- Camera Overview](http://www.alliedvisiontec.com/us/products/cameras.html)
+* [Camera Brochure](http://www.alliedvisiontec.com/fileadmin/content/PDF/Products/Brochure/Big_Family/ALL_Brochure_Cameras_V8.0.8_en.pdf)
 * Libraries
-    * A list of any code libraries that make it 4easier to use this thing!
-	* It's okay if you list mulitple libraries -- that's encouraged, in fact!
-	* If there aren't any, that's okay too -- that'll encourage someone to write one!
+    * None yet
 * Known Projects:
-    * Do you know of any projects that used this part?
-	* If so, link to them here!
+    * None yet
 * Other Resources:
-    * Anything else you think would be helpful?
-	* Tutorials for calibration?
-	* A blog post about how to hack the part to do something awesome?
-	* Put it here!
 
 ## Review
-
-If you've used the part here, it's be AWESOME if you could contribute at least a bit of text about how it went.
-
-* Was it easy to use?
-* Did it meet your expectations?
-* What would you make sure someone knew before using this?

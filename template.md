@@ -1,5 +1,7 @@
 # Sensor Name
 
+## Overview
+
 ## Vitals
 * Approximate Cost: $xxx.xx
 * Suppliers
