@@ -1,4 +1,4 @@
-#human-instrumentation-project
+#human instrumentation project
 
 This repository is an attempt to keep a log of useful sensor technologies for use in interactive creative pieces.
 
