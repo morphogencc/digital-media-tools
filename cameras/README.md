@@ -7,8 +7,8 @@ Cameras can be used to do much more than proximity detection using CV techniques
 * Extremely flexible
 * Can go gestural recognition
 
-## Disadvnatages
+## Disadvantages
 
-* Much more computationally intensive (almost always need some sort of computer vision algoritms)
+* Much more computationally intensive (better get familiar with OpenCV!)
 
 ## Best Practices
