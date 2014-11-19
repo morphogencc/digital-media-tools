@@ -1,4 +1,4 @@
-# Sonar Sensors
+# Capaciive Sensors
 
 Capacitive sensors use a human body as a ground to discharge a capacitor plate being charged by the sensor.  They are great for use cases where line of sight cannot be guaranteed (through a barrier), but where accuracy is not required.
 
