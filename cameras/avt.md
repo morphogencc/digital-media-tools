@@ -10,7 +10,8 @@ Allied Vision Technologies makes cameras that are ethernet-enabled (plus many of
 	* [1stVision](http://1stvision.com/cameras/AVT-cameras.html)
 * [Camera Brochure](http://www.alliedvisiontec.com/fileadmin/content/PDF/Products/Brochure/Big_Family/ALL_Brochure_Cameras_V8.0.8_en.pdf)
 * Libraries
-    * [Vimba SDK](http://www.alliedvisiontec.com/us/products/software/vimba-sdk.html)
+    * [Vimba SDK](http://www.alliedvisiontec.com/us/products/software/vimba-sdk.html) (for Windows, Linux)
+	* [PvAPI SDK](http://www.alliedvisiontec.com/us/products/legacy.html) (for OSX)
 * Known Projects:
     * None yet
 * Other Resources:
