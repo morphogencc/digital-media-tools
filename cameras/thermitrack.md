@@ -1,12 +1,12 @@
 # Thermitrack
 
 ## Vitals
-* Approximate Cost: $???
+* Approximate Cost: $400
 * Suppliers
     * [Thermitrack](thermitrack.com)
-* [Datasheet]() -- A link to the datasheet / spec sheet, if it's available.
+* [Datasheet](http://www.thermitrack.com/prodinfo.html)
 * Libraries
-    * None yet
+    * [Thermitrack Downloads](http://www.thermitrack.com/downloads.html)
 * Known Projects:
     * [Thermitrack Installation Gallery](http://thermitrack.com/installations.html)
 * Other Resources:

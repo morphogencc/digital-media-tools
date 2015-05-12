@@ -1,18 +1,12 @@
-# Sensor Name
+# MESA Imaging 3D ToF Camera SR4000
 
 ## Vitals
-* Approximate Cost: $xxx.xx
+* Approximate Cost: $4,000.00
 * Suppliers
-    * A bulleted list of places you know where to get the piece
-    * Sometimes you have to get it straight from the manufacturer!
-* [Datasheet]() -- A link to the datasheet / spec sheet, if it's available.
+    * [Robotshop](http://www.robotshop.com/en/mesa-3d-tof-camera-sr4000-usb-5m-range.html)
+* [Datasheet](http://www.robotshop.com/media/files/pdf/datasheet-400001.pdf)
 * Libraries
-    * A list of any code libraries that make it 4easier to use this thing!
-	* It's okay if you list mulitple libraries -- that's encouraged, in fact!
-	* If there aren't any, that's okay too -- that'll encourage someone to write one!
 * Known Projects:
-    * Do you know of any projects that used this part?
-	* If so, link to them here!
 * Other Resources:
     * Anything else you think would be helpful?
 	* Tutorials for calibration?

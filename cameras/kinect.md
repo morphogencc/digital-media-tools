@@ -1,23 +1,16 @@
 # Sensor Name
 
 ## Vitals
-* Approximate Cost: $xxx.xx
+* Approximate Cost: $150
 * Suppliers
-    * A bulleted list of places you know where to get the piece
-    * Sometimes you have to get it straight from the manufacturer!
-* [Datasheet]() -- A link to the datasheet / spec sheet, if it's available.
+    * Just about anywhere
+* [Datasheet](https://msdn.microsoft.com/en-us/library/jj131033.aspx)
 * Libraries
-    * A list of any code libraries that make it 4easier to use this thing!
-	* It's okay if you list mulitple libraries -- that's encouraged, in fact!
-	* If there aren't any, that's okay too -- that'll encourage someone to write one!
+    * [Kinect for Windows SDK](https://msdn.microsoft.com/en-us/library/hh855347.aspx)
 * Known Projects:
-    * Do you know of any projects that used this part?
-	* If so, link to them here!
 * Other Resources:
-    * Anything else you think would be helpful?
-	* Tutorials for calibration?
-	* A blog post about how to hack the part to do something awesome?
-	* Put it here!
+
+## Constraints
 
 ## Review
 
