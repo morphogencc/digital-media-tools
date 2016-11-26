@@ -1,28 +1,15 @@
 # Sensor Name
 
 ## Vitals
-* Approximate Cost: $xxx.xx
+* Approximate Cost: $5.00 - $150.00 (depending on consumer vs. custom version)
 * Suppliers
-    * A bulleted list of places you know where to get the piece
-    * Sometimes you have to get it straight from the manufacturer!
-* [Datasheet]() -- A link to the datasheet / spec sheet, if it's available.
+    * Amazon, Best Buy, etc.
+    * [Peau Productions](https://www.peauproductions.com/apps/productbuilder/ps-eye-camera-builder) -- They have a modified version available with lens mounts and a 3dp printed case; these are MUCH easier to use than the consumer version of the camera.
+* [Datasheet]() -- None available.  See Description.
 * Libraries
-    * A list of any code libraries that make it 4easier to use this thing!
-	* It's okay if you list mulitple libraries -- that's encouraged, in fact!
-	* If there aren't any, that's okay too -- that'll encourage someone to write one!
-* Known Projects:
-    * Do you know of any projects that used this part?
-	* If so, link to them here!
-* Other Resources:
-    * Anything else you think would be helpful?
-	* Tutorials for calibration?
-	* A blog post about how to hack the part to do something awesome?
-	* Put it here!
+** [ofxPS3EyeGrabber](https://github.com/bakercp/ofxPS3EyeGrabber) is the most used openFrameworks add-on for it, but has issues with Windows.  It is known to work on OSX and Linux.
 
-## Review
+## Review / Description
+The PS3 Eye Camera is an extremely cheap camera that works pretty great for quick and dirty installation purposes!  It's also VERY fast -- 120 Hz at 320x240 resolution or 60 Hz at 640x480 resolution, which ability to go up to 150% faster with proper firmware drivers.  The consumer version of the camera comes with a two-setting fixed focus zoom lens that can be set to 55 degrees or 75 degrees, while the Peau Productions version comes with either a CS or M12 mount that allows you to grab a lens from just about anywhere and attach it.
 
-If you've used the part here, it's be AWESOME if you could contribute at least a bit of text about how it went.
-
-* Was it easy to use?
-* Did it meet your expectations?
-* What would you make sure someone knew before using this?
+The only annoying part of using the camera is limited resolution (which is not often an issue) and that it uses USB, so it needs to be very close to the computer or you need to get USB Extenders.

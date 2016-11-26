@@ -13,9 +13,7 @@
 ## Constraints
 
 ## Review
+2d RGB Camera plus a 3d depth image all in one.  Everyone's pretty aware of their capabilities, but some reasons you may want to think twice about using them:
 
-If you've used the part here, it's be AWESOME if you could contribute at least a bit of text about how it went.
-
-* Was it easy to use?
-* Did it meet your expectations?
-* What would you make sure someone knew before using this?
+* Limited range (12'-15') and no lensings options (fixed field of view) can make them tricky for applications.
+* The driver allows a limited number of them (2 with the original SDK, 3 with a Kinect 2.0 and the new SDK) can be used with a single computer, so you'd need more computers in order to use more than 3 Kinects.

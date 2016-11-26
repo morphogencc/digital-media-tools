@@ -10,5 +10,6 @@ Cameras can be used to do much more than proximity detection using CV techniques
 ## Disadvantages
 
 * Much more computationally intensive (better get familiar with OpenCV!)
+* Sensitive to lighting conditions (especially open air / sunlight)
 
 ## Best Practices

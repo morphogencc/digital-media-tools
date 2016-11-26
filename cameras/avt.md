@@ -3,21 +3,19 @@
 Allied Vision Technologies makes cameras that are ethernet-enabled (plus many of them support PoE), and are small and built like tanks.
 
 ## Vitals
-* Approximate Cost: $600+
+* Approximate Cost: $595+
 * Suppliers
-    * [Allied Vision Technologies -- Camera Overview](http://www.alliedvisiontec.com/us/products/cameras.html)
 	* [Edmund Optics](http://www.edmundoptics.com/)
-	* [1stVision](http://1stvision.com/cameras/AVT-cameras.html)
-* [Camera Brochure](http://www.alliedvisiontec.com/fileadmin/content/PDF/Products/Brochure/Big_Family/ALL_Brochure_Cameras_V8.0.8_en.pdf)
+	* [RMA Electronics](http://www.rmaelectronics.com/) -- They're also great at getting custom lensing options for you.
+* Documentation
+** [Camera Brochure](http://www.alliedvisiontec.com/fileadmin/content/PDF/Products/Brochure/Big_Family/ALL_Brochure_Cameras_V8.0.8_en.pdf)
+** [Allied Vision Technologies -- Camera Overview](http://www.alliedvisiontec.com/us/products/cameras.html)
 * Libraries
     * [Vimba SDK](http://www.alliedvisiontec.com/us/products/software/vimba-sdk.html) (for Windows, Linux)
 	* [PvAPI SDK](http://www.alliedvisiontec.com/us/products/legacy.html) (for OSX)
-* Known Projects:
-    * None yet
-* Other Resources:
 
 ## Review
-These cameras are built like *tanks*, and work over Gigabit Ethernet so you don't have to worry about USB Cables, and have decent framerates at usable resolutions.  They also have a variety of onboard image processing and camera control features (like gainc ontrol, external triggers, multicasting, binning, etc.) and use standard lenses.
+These cameras are built like *tanks*, and work over Gigabit Ethernet so you don't have to worry about USB Cables, and have decent framerates at usable resolutions.  They also have a variety of onboard image processing and camera control features (like gain control, external triggers, multicasting, binning, etc.) and use standard lenses.
 
 Good models for computer vision (good IR response -- 20%+ quantum efficiency) include:
 
