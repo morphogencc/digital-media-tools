@@ -1,4 +1,4 @@
-#human instrumentation project
+# Tools for Digital Media
 
 This repository is an attempt to keep a log of useful sensor technologies for use in interactive creative pieces.
 
