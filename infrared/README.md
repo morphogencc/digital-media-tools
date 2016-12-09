@@ -7,7 +7,7 @@
 * Cheap
 * Can get good distance measurements
 
-## Disadvnatages
+## Disadvantages
 
 * Sensitive to sunlight
 
